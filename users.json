@@ -1,52 +1,7 @@
 [
   {
-    "email": "test@test.com",
-    "id": "f6e6d166",
-    "password": "password"
-  },
-  {
-    "email": "test1@test.com",
-    "password": "pass",
-    "id": "ce5d4a7d"
-  },
-  {
-    "email": "test2@test.com",
-    "password": "pass",
-    "id": "ffb81515"
-  },
-  {
-    "email": "test3@test.com",
-    "password": "test",
-    "id": "5996b176"
-  },
-  {
-    "email": "dasdas@dadas.com",
-    "password": "e0d2c34966935d7725a34f39368ea74455052398ad11382b449f70229991edd29ee4b4d0b5fdcc575ee4e5a7170fa34ca777b76edd43ec7d271dc09900682c50.cab02899dca88fb5",
-    "id": "2d36819d"
-  },
-  {
     "email": "yolo@yolo.com",
-    "password": "361ed12073dbe364ebac501af17fdf0216c7a60bba3b2fc0291129ba1cff841ad3df92fd41512dcd83aecb9077b060fc7b4fef1187e4ee41d99df58f215e54e4.824b25b157136bda",
-    "id": "505d2a9b"
-  },
-  {
-    "email": "yolaadaso@yolo.com",
-    "password": "f16f8195eb38bb7bd2ca2885ed2121dfc9e41fddeb740141ff823dcb77fb52c44f5748d1725f0ddfa836c69c3c11c75aecb8f0d7f14f2acc515eed3407131788.ceb06fd4808482d5",
-    "id": "5e951243"
-  },
-  {
-    "email": "yolaadaso@yolo.com",
-    "password": "4523875d83da2e4d289a28867593f2c00a256d118d682d4289d91f26422ba6e0b7de85d3f3b0509d3900a2961b8765c47e805ea400fc62629014609afc7e0f30.fbf6a23a0b7a574f",
-    "id": "2592639b"
-  },
-  {
-    "email": "dasdaadadas@gada",
-    "password": "ac160e94282a823889266670eacbfd2f4bcfdedad353bc8fb6aab63bd3dc61124239a1db3d49ece9158d42601db517ed01d944264793f3a2a741bbfb6e424c49.6ea48ac38a8b228b",
-    "id": "db21d965"
-  },
-  {
-    "email": "jada@jada.com",
-    "password": "b9b1be37df925be3dd7deade5afae164ad1cb745a009cefb2c72ff877448e15d8e282d5eef5fe65b37e2c2c14a2149f5bb66e65753dc6eb1d9b738c5e7482e2b.0f64d07df830c6d7",
-    "id": "f03bfae7"
+    "password": "e00e7aefef1458e00044cb98fa5f8ef4a75d2ab9fccef2257b963d87f22343c0d9969f97bf69eb9959a189107b975e08a9b7f266ecff5142948d5228a97ea181.018e3ba2495982c5",
+    "id": "543879fa"
   }
 ]
