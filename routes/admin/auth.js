@@ -51,7 +51,7 @@ router.post(
 
     req.session.userId = user.id;
 
-    res.send('Account Created!');
+    res.send('Signed in successfully!');
   }
 );
 
