@@ -1,7 +1,7 @@
 const express = require('express');
 const multer = require('multer');
 
-const { handleErrors } = require('./middlewares');
+const { handleErrors } = require('./middleware');
 const productsRepo = require('../../repositories/products');
 const productsNewTemplate = require('../../views/admin/products/new');
 const productsIndexTemplate = require('../../views/admin/products/index');
